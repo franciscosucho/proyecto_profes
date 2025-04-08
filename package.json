@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_profes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscosucho/proyecto_profes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscosucho/proyecto_profes/issues"
+  },
+  "homepage": "https://github.com/franciscosucho/proyecto_profes#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
